@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Inspiration from various to-do list applications
-- Thanks to [OpenSource](https://opensource.guide/) for guidance on creating a good README
+
