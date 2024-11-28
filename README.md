@@ -17,7 +17,7 @@ A simple, intuitive to-do list application built with vanilla JavaScript, HTML, 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Local Storage API
+
 
 ## Getting Started
 
